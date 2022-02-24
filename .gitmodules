@@ -1,0 +1,24 @@
+[submodule "acheron_Symbols"]
+	path = acheron_Symbols
+	url = https://github.com/AcheronProject/acheron_Symbols
+[submodule "acheron_Components.pretty"]
+	path = acheron_Components.pretty
+	url = https://github.com/AcheronProject/acheron_Components.pretty
+[submodule "acheron_Connectors.pretty"]
+	path = acheron_Connectors.pretty
+	url = https://github.com/AcheronProject/acheron_Connectors.pretty
+[submodule "acheron_MX.pretty"]
+	path = acheron_MX.pretty
+	url = https://github.com/AcheronProject/acheron_MX.pretty
+[submodule "acheron_MX_soldermask.pretty"]
+	path = acheron_MX_soldermask.pretty
+	url = https://github.com/AcheronProject/acheron_MX_soldermask.pretty
+[submodule "acheron_3D"]
+	path = acheron_3D
+	url = https://github.com/AcheronProject/acheron_3D
+[submodule "acheron_Hardware.pretty"]
+	path = acheron_Hardware.pretty
+	url = https://github.com/AcheronProject/acheron_Hardware.pretty
+[submodule "acheron_MountingHoles.pretty"]
+	path = acheron_MountingHoles.pretty
+	url = https://github.com/AcheronProject/acheron_MountingHoles.pretty
